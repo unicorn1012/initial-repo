@@ -1,7 +1,7 @@
 const TestComponent = (props) => {
     return (
         <div>
-            {/* Your component JSX goes here */}
+            <h1>Hello, there</h1>
         </div>
     );
 };
